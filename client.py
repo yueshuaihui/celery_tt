@@ -8,5 +8,5 @@ from celery import Task
 # add.delay(1, 2)
 # add2.delay(3, 4)
 # print("11111")
-
+a = 1111
 
