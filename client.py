@@ -10,3 +10,4 @@ from celery import Task
 # print("11111")
 a = 1111
 
+list = [1, 2, 3, 4]
